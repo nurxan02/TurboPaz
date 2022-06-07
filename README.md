@@ -1,9 +1,11 @@
 # TurboPaz
 Automobile Salon Management Console app
 
-## Screenshot
-![Screenshot 2022-05-30 150736](https://user-images.githubusercontent.com/90649844/171020043-ac7ee1bc-2e64-4900-9996-dbe829abbaf4.png)
+## Screenshot from Console
 
+<div align="center">
+   <img src="https://user-images.githubusercontent.com/90649844/171020043-ac7ee1bc-2e64-4900-9996-dbe829abbaf4.png" alt="Console Screenshot" width="auto" height="200px">
+  </div>
 
 ## My Project properties
 

@@ -8,28 +8,20 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\nurkhantm\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Nurkhan's Windows\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nurkhantm\\Desktop\\TurboPazz-main\\TurboPaz\\TurboPazLib\\TurboPazLib.csproj",
+      "projectUniqueName": "T:\\Back-End Projects and MVC\\TurboPaz\\TurboPazLib\\TurboPazLib.csproj",
       "projectName": "TurboPazLib",
-      "projectPath": "C:\\Users\\nurkhantm\\Desktop\\TurboPazz-main\\TurboPaz\\TurboPazLib\\TurboPazLib.csproj",
-      "packagesPath": "C:\\Users\\nurkhantm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nurkhantm\\Desktop\\TurboPazz-main\\TurboPaz\\TurboPazLib\\obj\\",
+      "projectPath": "T:\\Back-End Projects and MVC\\TurboPaz\\TurboPazLib\\TurboPazLib.csproj",
+      "packagesPath": "C:\\Users\\Nurkhan's Windows\\.nuget\\packages\\",
+      "outputPath": "T:\\Back-End Projects and MVC\\TurboPaz\\TurboPazLib\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\nurkhantm\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Nurkhan's Windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -59,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -68,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

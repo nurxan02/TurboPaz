@@ -58,3 +58,15 @@ C:\Users\nurkhantm\Desktop\TurboPazz-main\TurboPaz\TurboPazLib\obj\Debug\net5.0\
 C:\Users\nurkhantm\Desktop\TurboPazz-main\TurboPaz\TurboPazLib\obj\Debug\net5.0\TurboPazLib.dll
 C:\Users\nurkhantm\Desktop\TurboPazz-main\TurboPaz\TurboPazLib\obj\Debug\net5.0\ref\TurboPazLib.dll
 C:\Users\nurkhantm\Desktop\TurboPazz-main\TurboPaz\TurboPazLib\obj\Debug\net5.0\TurboPazLib.pdb
+T:\Back-End Projects and MVC\TurboPaz\TurboPazLib\bin\Debug\net5.0\TurboPazLib.deps.json
+T:\Back-End Projects and MVC\TurboPaz\TurboPazLib\bin\Debug\net5.0\TurboPazLib.dll
+T:\Back-End Projects and MVC\TurboPaz\TurboPazLib\bin\Debug\net5.0\TurboPazLib.pdb
+T:\Back-End Projects and MVC\TurboPaz\TurboPazLib\obj\Debug\net5.0\TurboPazLib.csproj.AssemblyReference.cache
+T:\Back-End Projects and MVC\TurboPaz\TurboPazLib\obj\Debug\net5.0\TurboPazLib.GeneratedMSBuildEditorConfig.editorconfig
+T:\Back-End Projects and MVC\TurboPaz\TurboPazLib\obj\Debug\net5.0\TurboPazLib.AssemblyInfoInputs.cache
+T:\Back-End Projects and MVC\TurboPaz\TurboPazLib\obj\Debug\net5.0\TurboPazLib.AssemblyInfo.cs
+T:\Back-End Projects and MVC\TurboPaz\TurboPazLib\obj\Debug\net5.0\TurboPazLib.csproj.CoreCompileInputs.cache
+T:\Back-End Projects and MVC\TurboPaz\TurboPazLib\obj\Debug\net5.0\TurboPazLib.dll
+T:\Back-End Projects and MVC\TurboPaz\TurboPazLib\obj\Debug\net5.0\refint\TurboPazLib.dll
+T:\Back-End Projects and MVC\TurboPaz\TurboPazLib\obj\Debug\net5.0\TurboPazLib.pdb
+T:\Back-End Projects and MVC\TurboPaz\TurboPazLib\obj\Debug\net5.0\ref\TurboPazLib.dll

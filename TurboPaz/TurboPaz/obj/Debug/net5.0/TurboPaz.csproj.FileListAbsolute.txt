@@ -93,3 +93,22 @@ C:\Users\nurkhantm\Desktop\TurboPazz-main\TurboPaz\TurboPaz\obj\Debug\net5.0\Tur
 C:\Users\nurkhantm\Desktop\TurboPazz-main\TurboPaz\TurboPaz\obj\Debug\net5.0\ref\TurboPaz.dll
 C:\Users\nurkhantm\Desktop\TurboPazz-main\TurboPaz\TurboPaz\obj\Debug\net5.0\TurboPaz.pdb
 C:\Users\nurkhantm\Desktop\TurboPazz-main\TurboPaz\TurboPaz\obj\Debug\net5.0\TurboPaz.genruntimeconfig.cache
+T:\Back-End Projects and MVC\TurboPaz\TurboPaz\bin\Debug\net5.0\TurboPaz.exe
+T:\Back-End Projects and MVC\TurboPaz\TurboPaz\bin\Debug\net5.0\TurboPaz.deps.json
+T:\Back-End Projects and MVC\TurboPaz\TurboPaz\bin\Debug\net5.0\TurboPaz.runtimeconfig.json
+T:\Back-End Projects and MVC\TurboPaz\TurboPaz\bin\Debug\net5.0\TurboPaz.runtimeconfig.dev.json
+T:\Back-End Projects and MVC\TurboPaz\TurboPaz\bin\Debug\net5.0\TurboPaz.dll
+T:\Back-End Projects and MVC\TurboPaz\TurboPaz\bin\Debug\net5.0\TurboPaz.pdb
+T:\Back-End Projects and MVC\TurboPaz\TurboPaz\bin\Debug\net5.0\TurboPazLib.dll
+T:\Back-End Projects and MVC\TurboPaz\TurboPaz\bin\Debug\net5.0\TurboPazLib.pdb
+T:\Back-End Projects and MVC\TurboPaz\TurboPaz\obj\Debug\net5.0\TurboPaz.csproj.AssemblyReference.cache
+T:\Back-End Projects and MVC\TurboPaz\TurboPaz\obj\Debug\net5.0\TurboPaz.GeneratedMSBuildEditorConfig.editorconfig
+T:\Back-End Projects and MVC\TurboPaz\TurboPaz\obj\Debug\net5.0\TurboPaz.AssemblyInfoInputs.cache
+T:\Back-End Projects and MVC\TurboPaz\TurboPaz\obj\Debug\net5.0\TurboPaz.AssemblyInfo.cs
+T:\Back-End Projects and MVC\TurboPaz\TurboPaz\obj\Debug\net5.0\TurboPaz.csproj.CoreCompileInputs.cache
+T:\Back-End Projects and MVC\TurboPaz\TurboPaz\obj\Debug\net5.0\TurboPaz.csproj.CopyComplete
+T:\Back-End Projects and MVC\TurboPaz\TurboPaz\obj\Debug\net5.0\TurboPaz.dll
+T:\Back-End Projects and MVC\TurboPaz\TurboPaz\obj\Debug\net5.0\refint\TurboPaz.dll
+T:\Back-End Projects and MVC\TurboPaz\TurboPaz\obj\Debug\net5.0\TurboPaz.pdb
+T:\Back-End Projects and MVC\TurboPaz\TurboPaz\obj\Debug\net5.0\TurboPaz.genruntimeconfig.cache
+T:\Back-End Projects and MVC\TurboPaz\TurboPaz\obj\Debug\net5.0\ref\TurboPaz.dll

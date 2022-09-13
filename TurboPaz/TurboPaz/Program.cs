@@ -10,6 +10,7 @@ namespace TurboPaz
     [Obsolete]
     internal class Program
     {
+
         static void Main(string[] args)
         {
             #region File Locations
